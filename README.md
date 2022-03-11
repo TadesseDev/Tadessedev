@@ -1,8 +1,12 @@
 ### Hi there 👋 I'm Tadesse Alemayehu 🙂
 
+## About me! 💁‍♂️
+🧑: I’m a full stack web app developer.<br/>
+⛑️: I’m looking for on-site or remote jobs!<br/>
+💬: Would love to work on backend and front end projects. 👷‍♂️<br/>
+💚: Enjoy coding more than enjoying itself 😃
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tadesse-Alemayehu&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadesse-Alemayehu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/><br/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Tadesse-Alemayehu&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadesse-Alemayehu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/><br/>
 
 ### My skill sets. 🧰
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
