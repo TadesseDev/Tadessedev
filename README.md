@@ -4,7 +4,8 @@
 😎 : I’m a full stack web app developer.<br/>
 🤓: I’m looking for on-site or remote jobs!<br/>
 ⌨: Would love to work on backend and front end projects. 👷‍♂️<br/>
-🤗: Enjoy coding more than enjoying itself 😃
+🤗: Enjoy coding more than enjoying itself 😀 <br/>
+👬: In love with pair programing. Love to colaborate on project and excercises. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tadesse-Alemayehu&show_icons=true&theme=radical)](https://github.com/Tadesse-Alemayehu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadesse-Alemayehu&layout=compact)](https://github.com/Tadesse-Alemayehu) <br/><br/>
