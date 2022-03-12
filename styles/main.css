@@ -1,0 +1,35 @@
+:root{
+  --main: #330100;
+  --mainTransparent: #33010069;
+  --primary: #FDFF30;
+}
+html,body{
+  padding: 0;
+  margin:0;
+}
+#profile-them{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.card{
+  color: var(--primary);
+background: linear-gradient(90deg, rgba(51,1,0,1) 0%, rgba(51,1,0,0.5130427170868348) 100%);
+  margin: 10px 10px;
+  padding: 10px 10px;
+  border-radius: 10px;
+  position: relative;
+}
+#profile-image{
+  background-image: url('../images/Tadesse-Alemayehu.jpg');
+  background-size: contain;
+  background-position: top right;
+  background-repeat: no-repeat;
+  position: absolute;
+  border-radius: 10px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}

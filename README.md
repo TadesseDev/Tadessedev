@@ -1,14 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./styles/main.css">
+<title>Document</title>
+</head>
+<body>
 ### Hi there 👋 I'm Tadesse Alemayehu 🙂
 
-## About me! 💁‍♂️
-😎 : I’m a full stack web app developer.<br/>
-🤓: I’m looking for on-site or remote jobs!<br/>
-⌨: Would love to work on backend and front end projects. 👷‍♂️<br/>
-🤗: Enjoy coding more than enjoying itself 😀 <br/>
-👬: In love with pair programing. Love to colaborate on project and excercises. 
+<article class='card'>
+<h2>## About me! 💁‍♂️</h2>
+<p>😎: I’m a full stack web app developer.<p/>
+<p>🤓: I’m looking for on-site or remote jobs!<p/>
+<p>⌨: Would love to work on backend and front end projects. 👷‍♂️<p/>
+<p>🤗: Enjoy coding more than enjoying itself 😀 <p/>
+<p>👬: In love with pair programing. Love to collaborate on project and exercises. <p/>
+<div id='profile-image'></div>
+</article>
+<div id='profile-them'><a class='github-status' href='https://github.com/Tadesse-Alemayehu'><img  src='https://github-readme-stats.vercel.app/api?username=Tadesse-Alemayehu&show_icons=true&theme=radical' />
+<a class='Most-used-languages' href='https://github.com/Tadesse-Alemayehu'><img id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tadesse-Alemayehu&layout=compact' />
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tadesse-Alemayehu&show_icons=true&theme=radical)](https://github.com/Tadesse-Alemayehu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadesse-Alemayehu&layout=compact)](https://github.com/Tadesse-Alemayehu) <br/><br/>
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tadesse-Alemayehu&show_icons=true&theme=radical)](https://github.com/Tadesse-Alemayehu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadesse-Alemayehu&layout=compact)](https://github.com/Tadesse-Alemayehu)  -->
+<br/><br/>
 
 ### My skill sets. 🧰
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,3 +46,5 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</body>
+</html>
