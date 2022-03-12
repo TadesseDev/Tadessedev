@@ -11,7 +11,7 @@
 ### Hi there 👋 I'm Tadesse Alemayehu 🙂
 <div align="center">
 	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+	<a href="https://github.com/Tadesse-Alemayehu">
 		<img src="newSvg.svg" width="800" height="auto" alt="Click to see the source">
 	</a>
 	<br>
