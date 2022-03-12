@@ -12,20 +12,10 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="newSvg.svg" width="800" height="400" alt="Click to see the source">
+		<img src="newSvg.svg" width="800" height="auto" alt="Click to see the source">
 	</a>
 	<br>
 </div>
-
-<!-- <article class='card'>
-<h2> About me! 💁‍♂️</h2>
-<p>😎: I’m a full stack web app developer.<p/>
-<p>🤓: I’m looking for on-site or remote jobs!<p/>
-<p>⌨: Would love to work on backend and front end projects. 👷‍♂️<p/>
-<p>🤗: Enjoy coding more than enjoying itself 😀 <p/>
-<p>👬: In love with pair programing. Love to collaborate on project and exercises. <p/>
-<div id='profile-image'></div>
-</article> -->
 <div id='profile-them'><a class='github-status' href='https://github.com/Tadesse-Alemayehu'><img  src='https://github-readme-stats.vercel.app/api?username=Tadesse-Alemayehu&show_icons=true&theme=radical' />
 <a class='Most-used-languages' href='https://github.com/Tadesse-Alemayehu'><img id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tadesse-Alemayehu&layout=compact' />
 </div>
