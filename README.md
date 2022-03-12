@@ -10,7 +10,12 @@
 <body>
 ### Hi there 👋 I'm Tadesse Alemayehu 🙂
 
-<article class='card'>
+<article style='  color: var(--primary);
+background: linear-gradient(90deg, rgba(51,1,0,1) 0%, rgba(51,1,0,0.5130427170868348) 100%);
+  margin: 10px 10px;
+  padding: 10px 10px;
+  border-radius: 10px;
+  position: relative;'>
 <h2> About me! 💁‍♂️</h2>
 <p>😎: I’m a full stack web app developer.<p/>
 <p>🤓: I’m looking for on-site or remote jobs!<p/>
