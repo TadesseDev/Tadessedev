@@ -11,7 +11,7 @@
 ### Hi there 👋 I'm Tadesse Alemayehu 🙂
 
 <article class='card'>
-<h2>## About me! 💁‍♂️</h2>
+<h2> About me! 💁‍♂️</h2>
 <p>😎: I’m a full stack web app developer.<p/>
 <p>🤓: I’m looking for on-site or remote jobs!<p/>
 <p>⌨: Would love to work on backend and front end projects. 👷‍♂️<p/>
