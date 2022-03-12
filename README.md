@@ -12,7 +12,7 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/Tadesse-Alemayehu">
-		<img src="newSvg.svg" width="800" height="auto" alt="Click to see the source">
+		<img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
 	</a>
 	<br>
 </div>
