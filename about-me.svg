@@ -48,11 +48,15 @@ box-shadow: 0 0 10px 0 var(--main);
   }
 }
 
+.card p{
+  margin: 2px;
+  margin-left: 30px;
+}
 .card h2{
   color: var(--primary);
   border-bottom: 5px solid var(--secondary);
   padding-bottom: 5px;
-  margin-top: 20px;
+  margin-top: 0;
 }
 
 #profile-image{
