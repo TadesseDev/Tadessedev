@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="./styles/main.css">
 </head>
 <body>
+
 ### Hi there 👋 I'm Tadesse Alemayehu 🙂
 <div align="center">
 	<br>
