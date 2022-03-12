@@ -29,7 +29,7 @@ background: linear-gradient(90deg, rgba(51,1,0,1) 0%, rgba(51,1,0,0.513042717086
   position: relative;
   width: 80%;
   margin-left: 10%;
-  margin-top: 5%;
+  margin-top: 3%;
   font-family: 'Fredoka', sans-serif;
 }
 
@@ -82,11 +82,12 @@ to{
 			</style>
 <article class='card'>
 <h2> About me! 💁‍♂️</h2>
-<p>😎: I’m a full stack web app developer.</p>
-<p>🤓: I’m looking for on-site or remote jobs!</p>
-<p>⌨: Would love to work on backend and front end projects. 👷‍♂️</p>
-<p>🤗: Enjoy coding more than enjoying itself 😀 </p>
-<p>👬: In love with pair programing. Love to collaborate on project and exercises. </p>
+<p>😎: I’m a full stack web app developer. ✌</p>
+<p>🤓: I’m looking for on-site or remote jobs! 🔍</p>
+<p>⌨: love to work on backend and frontend projects.👷‍♂️</p>
+<p>🤗: Enjoy coding more than enjoy itself 😀 </p>
+<p>🎉: Working on a project? Allow me to help, get in touch 📩</p>
+<p>👬: In love with pair programming. 💖</p>
 <div id='top-bottom-dv'>
 <div class='top'>
 </div>
