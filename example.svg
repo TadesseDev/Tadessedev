@@ -1,0 +1,57 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+:root{
+  --main: #330100;
+  --mainTransparent: #33010069;
+  --primary: #FDFF30;
+}
+html,body{
+  padding: 0;
+  margin:0;
+}
+#profile-them{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.card{
+  color: var(--primary);
+background: linear-gradient(90deg, rgba(51,1,0,1) 0%, rgba(51,1,0,0.5130427170868348) 100%);
+  margin: 10px 10px;
+  padding: 10px 10px;
+  border-radius: 10px;
+  position: relative;
+}
+#profile-image{
+  background-image: url('../images/Tadesse-Alemayehu.jpg');
+  background-size: contain;
+  background-position: top right;
+  background-repeat: no-repeat;
+  position: absolute;
+  border-radius: 10px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+			</style>
+      ### Hi there 👋 I'm Tadesse Alemayehu 🙂
+
+<article class='card'>
+<h2> About me! 💁‍♂️</h2>
+<p>😎: I’m a full stack web app developer.<p/>
+<p>🤓: I’m looking for on-site or remote jobs!<p/>
+<p>⌨: Would love to work on backend and front end projects. 👷‍♂️<p/>
+<p>🤗: Enjoy coding more than enjoying itself 😀 <p/>
+<p>👬: In love with pair programing. Love to collaborate on project and exercises. <p/>
+<div id='profile-image'></div>
+</article>
+<div id='profile-them'><a class='github-status' href='https://github.com/Tadesse-Alemayehu'><img  src='https://github-readme-stats.vercel.app/api?username=Tadesse-Alemayehu&show_icons=true&theme=radical' />
+<a class='Most-used-languages' href='https://github.com/Tadesse-Alemayehu'><img id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tadesse-Alemayehu&layout=compact' />
+</div>
+		</div>
+	</foreignObject>
+</svg>
