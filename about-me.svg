@@ -18,6 +18,8 @@ html,body{
   align-items: center;
 }
 .card{
+  animation-name: skew;
+  animation-duration: 2s;
   color: var(--secondary);
 background: linear-gradient(90deg, rgba(51,1,0,1) 0%, rgba(51,1,0,0.5130427170868348) 100%);
   margin: 10px 10px;
@@ -32,6 +34,18 @@ background: linear-gradient(90deg, rgba(51,1,0,1) 0%, rgba(51,1,0,0.513042717086
   margin-top: 3%;
   font-family: 'Fredoka', sans-serif;
 box-shadow: 0 0 10px 0 var(--main);
+}
+
+@keyframes skew{
+  from{
+    transform: skew(5deg, 5deg);
+  }
+  70%{
+    transform: skew(-5deg, -5deg);
+  }
+  to{
+    transform: skew(0, 0);
+  }
 }
 
 .card h2{
@@ -59,17 +73,17 @@ box-shadow: 0 0 10px 0 var(--main);
   animation-name: rotate-slow;
   animation-iteration-count: infinite;
   animation-duration: 4s;
-  min-width: 100px;
-  min-height: 100px;
+  min-width: 50px;
+  min-height: 50px;
   position: absolute;
-  top: -50px;
-  left: -50px;
+  top: -25px;
+  left: -25px;
   z-index: -1;
   border-radius: 10px;
 }
 #top-bottom-dv .bottom{
-  top: 88%;
-  left: 90%;
+  top: 95%;
+  left: 95%;
   background-color: var(--secondary);
 }
 @keyframes rotate-slow{
