@@ -38,20 +38,16 @@ background: linear-gradient(90deg, rgba(51,1,0,1) 0%, rgba(51,1,0,0.513042717086
   z-index: -1;
 }
 			</style>
-      ### Hi there 👋 I'm Tadesse Alemayehu 🙂
-
 <article class='card'>
 <h2> About me! 💁‍♂️</h2>
-<p>😎: I’m a full stack web app developer.<p/>
-<p>🤓: I’m looking for on-site or remote jobs!<p/>
-<p>⌨: Would love to work on backend and front end projects. 👷‍♂️<p/>
-<p>🤗: Enjoy coding more than enjoying itself 😀 <p/>
-<p>👬: In love with pair programing. Love to collaborate on project and exercises. <p/>
-<div id='profile-image'></div>
-</article>
-<div id='profile-them'><a class='github-status' href='https://github.com/Tadesse-Alemayehu'><img  src='https://github-readme-stats.vercel.app/api?username=Tadesse-Alemayehu&show_icons=true&theme=radical' />
-<a class='Most-used-languages' href='https://github.com/Tadesse-Alemayehu'><img id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tadesse-Alemayehu&layout=compact' />
+<p>😎: I’m a full stack web app developer.</p>
+<p>🤓: I’m looking for on-site or remote jobs!</p>
+<p>⌨: Would love to work on backend and front end projects. 👷‍♂️</p>
+<p>🤗: Enjoy coding more than enjoying itself 😀 </p>
+<p>👬: In love with pair programing. Love to collaborate on project and exercises. </p>
+<div id='profile-image'>
 </div>
-		</div>
+</article>
+</div>
 	</foreignObject>
 </svg>
