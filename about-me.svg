@@ -31,6 +31,7 @@ background: linear-gradient(90deg, rgba(51,1,0,1) 0%, rgba(51,1,0,0.513042717086
   margin-left: 10%;
   margin-top: 3%;
   font-family: 'Fredoka', sans-serif;
+box-shadow: 0 0 10px 0 var(--main);
 }
 
 .card h2{
@@ -68,7 +69,7 @@ background: linear-gradient(90deg, rgba(51,1,0,1) 0%, rgba(51,1,0,0.513042717086
 }
 #top-bottom-dv .bottom{
   top: 88%;
-  left: 88%;
+  left: 90%;
   background-color: var(--secondary);
 }
 @keyframes rotate-slow{
