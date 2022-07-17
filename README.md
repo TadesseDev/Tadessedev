@@ -16,7 +16,6 @@
 	</a>
 	<br>
 </div>
-
 ### GitHub Status 😎
 <div id='profile-them'><a class='github-status' href='https://github.com/Tadesse-Alemayehu'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=Tadesse-Alemayehu&show_icons=true&theme=radical' />
 <a class='Most-used-languages' href='https://github.com/Tadesse-Alemayehu'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tadesse-Alemayehu&layout=compact' />
