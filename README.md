@@ -11,19 +11,19 @@
 ### Hi there 👋 I'm Tadesse Alemayehu 🙂
 <div align="center">
 	<br>
-	<a href="https://github.com/Tadesse-Alemayehu">
+	<a href="https://github.com/Tadessedev">
 		<img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
 	</a>
 	<br>
 </div> 
 
 ### GitHub Status 😎 
-<div id='profile-them'><a class='github-status' href='https://github.com/Tadesse-Alemayehu'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=Tadesse-Alemayehu&show_icons=true&theme=radical' />
-<a class='Most-used-languages' href='https://github.com/Tadesse-Alemayehu'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tadesse-Alemayehu&layout=compact' />
+<div id='profile-them'><a class='github-status' href='https://github.com/Tadessedev'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=Tadessedev&show_icons=true&theme=radical' />
+<a class='Most-used-languages' href='https://github.com/Tadessedev'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tadessedev&layout=compact' />
 </div>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tadesse-Alemayehu&show_icons=true&theme=radical)](https://github.com/Tadesse-Alemayehu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadesse-Alemayehu&layout=compact)](https://github.com/Tadesse-Alemayehu)  -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tadessedev&show_icons=true&theme=radical)](https://github.com/Tadessedev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadessedev&layout=compact)](https://github.com/Tadessedev)  -->
 <br/><br/>
 
 ### My skill sets. 🧰
