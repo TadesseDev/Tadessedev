@@ -8,7 +8,7 @@
 </head>
 <body>
 
-### Hi there 👋 I'm Tadesse Alemayehu 🙂
+### Hi there 👋 I'm Tadesse Dubale 🙂
 <div align="center">
 	<br>
 	<a href="https://github.com/Tadessedev">
