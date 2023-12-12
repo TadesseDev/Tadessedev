@@ -18,8 +18,7 @@
 </div> 
 
 ### GitHub Status 😎 
-<div id='profile-them'><a class='github-status' href='https://github.com/Tadessedev'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=Tadessedev&show_icons=true&theme=radical' />
-<a class='Most-used-languages' href='https://github.com/Tadessedev'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Tadessedev&layout=compact' />
+
 </div>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tadessedev&show_icons=true&theme=radical)](https://github.com/Tadessedev)
