@@ -12,6 +12,10 @@ html,body{
   padding: 0;
   margin:0;
 }
+h3{
+text-align: center;
+color: var(--primary);
+}
 #profile-them{
   display: flex;
   justify-content: space-around;
@@ -101,11 +105,11 @@ to{
 			</style>
 <article class='card'>
 <h2> About me! 💁‍♂️</h2>
-<p>😎: I’m a full stack Engineer.🧑‍🔬</p>
-<p>🤓: I’m Always open to new opportunities. 💹</p>
-<p>⚒️: I love to work on backend and frontend projects.👷‍♂️</p>
-<p>🖼️: Graphics Design is something I do when I take a break from coding.😀 </p>
-<p>👬: In love with pair programming, and meeting new people. 💖</p>
+<h3> ___Start with the end in mind___ </h3>
+<p>😎: I’m a senior Software Engineer.🧑‍🔬</p>
+<p>⚒️: bakend/frontend... I got you!👷‍♂️</p>
+<p>🖼️: Graphics Design is something I do for fun.😀 </p>
+<p>👬: Immense experience in a remote setup. 💖</p>
 <p>🧑‍💻: Working on a project? Allow me to help, get in touch. 📧</p>
 <div id='top-bottom-dv'>
 <div class='top'>
